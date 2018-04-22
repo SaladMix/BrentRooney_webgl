@@ -1,0 +1,13 @@
+{
+"companyName": "SaladMix Studio",
+"productName": "BrentRooney",
+"dataUrl": "BR_WebGL.data.unityweb",
+"asmCodeUrl": "BR_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "BR_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "BR_WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
